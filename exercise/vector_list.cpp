@@ -2,6 +2,7 @@
 
 /*IMPLEMENTAÇÃO DOS MÉTODOS DA CLASSE VECTORLIST*/
 /*METODO: CONSTRUTOR*/
+/*
 int main(int argc, char const* argv[]) {
     VectorList<int> lista(11);
     std::cout << "lista criada\n";
@@ -25,27 +26,37 @@ int main(int argc, char const* argv[]) {
     lista.print();
     return 0;
 }
-
+*/
 /*METODO: INSERÇÃO*/
+/*
 int main(int argc, char const* argv[]) {
     VectorList<int> lista(11);
-    std::cout << "lista criada\n";
+    std::cout << "Lista -> ";
     
     lista.push_back(10);
     lista.push_back(20);
     lista.push_back(30);
     lista.push_back(40);
     lista.push_back(50);
-    
-    lista.insert(1, 100);  // insere 100 na 1° posição
-    
-    std::cout << "tamanho da lista: " << lista.size() << "\n";
+
     lista.print();
     
+    std::cout << std::endl;
+
+    std::cout << "Inserindo 100 na posição [1] \n";
+    lista.insert(1, 100);
+    
+    std::cout<<std::endl;
+
+    std::cout << "tamanho da lista após inserção: " << lista.size() << "\nLista após inserção: ";lista.print();
+    
+    std::cout << std::endl;
     return 0;
 }
 
+*/
 /*METODO: REMOÇÃO*/
+/*
 int main(int argc, char const* argv[]) {
     VectorList<int> lista(11);
     std::cout << "lista criada\n";
@@ -63,9 +74,9 @@ int main(int argc, char const* argv[]) {
     
     return 0;
 }
-
+*/
 /*METODO: OPERADOR DE ACESSO E COPIA DO CONSTRUTOR*/
-int main(int argc, char const* argv[]) {
+/*int main(int argc, char const* argv[]) {
     VectorList<int> lista(11);
     std::cout << "lista criada\n";
     
@@ -84,3 +95,4 @@ int main(int argc, char const* argv[]) {
     
     return 0;
 }
+*/
