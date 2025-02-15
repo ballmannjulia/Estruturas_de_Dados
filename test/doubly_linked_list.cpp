@@ -37,8 +37,8 @@ TEST_F(DoublyLinkedListTest, TestFind) {
     list->push_back(20);
 
     auto it = list->find(20);
-    EXPECT_NE(it, list->end()); // Expect an iterator pointing to the 20
-    EXPECT_EQ(*it, 20); // The value pointed to by the iterator should be 20
+    EXPECT_NE(it, list->end()); // Expect an iterator pointing to the 20;
+    EXPECT_EQ(*it, 20); // The value pointed to by the iterator should be 20;
 }
 
 // Test case to check the pop_back method

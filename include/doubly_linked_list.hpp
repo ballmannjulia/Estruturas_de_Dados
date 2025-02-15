@@ -1,6 +1,7 @@
 #pragma once
 #include <stddef.h>
 
+
 /**
  * @class DoublyLinkedList
  * @brief Representa uma lista duplamente encadeada de elementos do tipo

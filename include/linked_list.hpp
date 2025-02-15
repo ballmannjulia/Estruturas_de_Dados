@@ -15,6 +15,7 @@
 template <class T>
 class LinkedList {
   /**
+   * 
    * @struct Node
    * @brief Estrutura interna que representa um nó na lista.
    *
