@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/1_point.dir/exercise/1_point.cpp.o -c /workspaces/Estruturas_de_Dados/exercise/1_point.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/exercise/1_point.cpp",
+  "output": "CMakeFiles/1_point.dir/exercise/1_point.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/1_point.dir/src/point.cpp.o -c /workspaces/Estruturas_de_Dados/src/point.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/src/point.cpp",
+  "output": "CMakeFiles/1_point.dir/src/point.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/2_point.dir/exercise/2_point.cpp.o -c /workspaces/Estruturas_de_Dados/exercise/2_point.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/exercise/2_point.cpp",
+  "output": "CMakeFiles/2_point.dir/exercise/2_point.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/2_point.dir/src/point.cpp.o -c /workspaces/Estruturas_de_Dados/src/point.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/src/point.cpp",
+  "output": "CMakeFiles/2_point.dir/src/point.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/3_hours.dir/exercise/3_hours.cpp.o -c /workspaces/Estruturas_de_Dados/exercise/3_hours.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/exercise/3_hours.cpp",
+  "output": "CMakeFiles/3_hours.dir/exercise/3_hours.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/3_hours.dir/src/hours.cpp.o -c /workspaces/Estruturas_de_Dados/src/hours.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/src/hours.cpp",
+  "output": "CMakeFiles/3_hours.dir/src/hours.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/4_hours.dir/exercise/4_hours.cpp.o -c /workspaces/Estruturas_de_Dados/exercise/4_hours.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/exercise/4_hours.cpp",
+  "output": "CMakeFiles/4_hours.dir/exercise/4_hours.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/4_hours.dir/src/hours.cpp.o -c /workspaces/Estruturas_de_Dados/src/hours.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/src/hours.cpp",
+  "output": "CMakeFiles/4_hours.dir/src/hours.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/5_pair.dir/exercise/5_pair.cpp.o -c /workspaces/Estruturas_de_Dados/exercise/5_pair.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/exercise/5_pair.cpp",
+  "output": "CMakeFiles/5_pair.dir/exercise/5_pair.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/vector_list.dir/exercise/vector_list.cpp.o -c /workspaces/Estruturas_de_Dados/exercise/vector_list.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/exercise/vector_list.cpp",
+  "output": "CMakeFiles/vector_list.dir/exercise/vector_list.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/linked_list.dir/exercise/linked_list.cpp.o -c /workspaces/Estruturas_de_Dados/exercise/linked_list.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/exercise/linked_list.cpp",
+  "output": "CMakeFiles/linked_list.dir/exercise/linked_list.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/doubly_linked_list.dir/exercise/doubly_linked_list.cpp.o -c /workspaces/Estruturas_de_Dados/exercise/doubly_linked_list.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/exercise/doubly_linked_list.cpp",
+  "output": "CMakeFiles/doubly_linked_list.dir/exercise/doubly_linked_list.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/vector_list_test.dir/test/vector_list.cpp.o -c /workspaces/Estruturas_de_Dados/test/vector_list.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/test/vector_list.cpp",
+  "output": "CMakeFiles/vector_list_test.dir/test/vector_list.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/linked_list_test.dir/test/linked_list.cpp.o -c /workspaces/Estruturas_de_Dados/test/linked_list.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/test/linked_list.cpp",
+  "output": "CMakeFiles/linked_list_test.dir/test/linked_list.cpp.o"
+},
+{
+  "directory": "/workspaces/Estruturas_de_Dados/build",
+  "command": "/opt/rh/gcc-toolset-14/root/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/doubly_linked_list_test.dir/test/doubly_linked_list.cpp.o -c /workspaces/Estruturas_de_Dados/test/doubly_linked_list.cpp",
+  "file": "/workspaces/Estruturas_de_Dados/test/doubly_linked_list.cpp",
+  "output": "CMakeFiles/doubly_linked_list_test.dir/test/doubly_linked_list.cpp.o"
+}
+]

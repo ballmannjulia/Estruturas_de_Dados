@@ -1,0 +1,1 @@
+/opt/rh/gcc-toolset-14/root/usr/bin/g++ -g CMakeFiles/vector_list.dir/exercise/vector_list.cpp.o -o vector_list 

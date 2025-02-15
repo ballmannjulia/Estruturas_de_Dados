@@ -1,0 +1,1 @@
+/opt/rh/gcc-toolset-14/root/usr/bin/g++ -g CMakeFiles/linked_list.dir/exercise/linked_list.cpp.o -o linked_list 

@@ -1,0 +1,1 @@
+/opt/rh/gcc-toolset-14/root/usr/bin/g++ -g CMakeFiles/linked_list_test.dir/test/linked_list.cpp.o -o linked_list_test  -lgtest -lgtest_main 

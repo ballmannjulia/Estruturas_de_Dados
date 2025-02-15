@@ -1,0 +1,1 @@
+/opt/rh/gcc-toolset-14/root/usr/bin/g++ -g CMakeFiles/5_pair.dir/exercise/5_pair.cpp.o -o 5_pair 

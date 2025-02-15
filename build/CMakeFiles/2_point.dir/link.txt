@@ -1,0 +1,1 @@
+/opt/rh/gcc-toolset-14/root/usr/bin/g++ -g CMakeFiles/2_point.dir/exercise/2_point.cpp.o CMakeFiles/2_point.dir/src/point.cpp.o -o 2_point 

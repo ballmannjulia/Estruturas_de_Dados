@@ -1,0 +1,1 @@
+/opt/rh/gcc-toolset-14/root/usr/bin/g++ -g CMakeFiles/doubly_linked_list_test.dir/test/doubly_linked_list.cpp.o -o doubly_linked_list_test  -lgtest -lgtest_main 

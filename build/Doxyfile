@@ -1,0 +1,17 @@
+PROJECT_NAME           = EstruturaDeDados
+
+OUTPUT_LANGUAGE        = Portuguese
+
+OUTPUT_DIRECTORY       = /workspaces/Estruturas_de_Dados/build/doc
+
+INPUT                  = /workspaces/Estruturas_de_Dados/include
+
+EXTRACT_ALL            = YES
+
+GENERATE_HTML          = YES
+
+GENERATE_LATEX         = NO
+
+FILE_PATTERNS          = *.hpp
+
+USE_MATHJAX            = YES
