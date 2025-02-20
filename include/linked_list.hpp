@@ -88,6 +88,7 @@ class LinkedList {
   /**
    * @brief Insere um elemento na posição especificada.
    *
+   * 
    * @param index O índice onde o elemento será inserido.
    * @param value O valor do elemento a ser inserido.
    * @throw std::out_of_range Se o índice for inválido.

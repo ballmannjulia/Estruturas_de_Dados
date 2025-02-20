@@ -51,6 +51,7 @@ TEST_F(DoublyLinkedListTest, TestPopBack) {
     EXPECT_FALSE(list->empty());
 
     auto it = list->find(20);
+    
     EXPECT_EQ(
         it, list->end()); // After pop_back, 20 should no longer be in the list
 }

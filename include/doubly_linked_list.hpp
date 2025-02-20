@@ -211,6 +211,7 @@ class DoublyLinkedList {
   void pop_front();
 
   /**
+   * 
    * @brief Remove o último elemento da lista.
    *
    * @throw std::out_of_range Se a lista estiver vazia.

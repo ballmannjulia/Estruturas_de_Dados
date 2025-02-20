@@ -1,0 +1,2082 @@
+Start testing: Feb 20 23:09 UTC
+----------------------------------------------------------
+1/76 Testing: VectorListTest.InitialState
+1/76 Test: VectorListTest.InitialState
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.InitialState"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.InitialState" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.InitialState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.InitialState
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.InitialState (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.InitialState" end time: Feb 20 23:09 UTC
+"VectorListTest.InitialState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/76 Testing: VectorListTest.PushBack
+2/76 Test: VectorListTest.PushBack
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.PushBack"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.PushBack" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.PushBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.PushBack
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.PushBack (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.PushBack" end time: Feb 20 23:09 UTC
+"VectorListTest.PushBack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/76 Testing: VectorListTest.Insert
+3/76 Test: VectorListTest.Insert
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.Insert"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.Insert" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.Insert
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.Insert (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.Insert" end time: Feb 20 23:09 UTC
+"VectorListTest.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/76 Testing: VectorListTest.PopBack
+4/76 Test: VectorListTest.PopBack
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.PopBack"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.PopBack" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.PopBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.PopBack
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.PopBack (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.PopBack" end time: Feb 20 23:09 UTC
+"VectorListTest.PopBack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/76 Testing: VectorListTest.Remove
+5/76 Test: VectorListTest.Remove
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.Remove"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.Remove" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.Remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.Remove
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.Remove (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.Remove" end time: Feb 20 23:09 UTC
+"VectorListTest.Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/76 Testing: VectorListTest.Clear
+6/76 Test: VectorListTest.Clear
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.Clear"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.Clear" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.Clear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.Clear
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.Clear (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.Clear" end time: Feb 20 23:09 UTC
+"VectorListTest.Clear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/76 Testing: VectorListTest.Find
+7/76 Test: VectorListTest.Find
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.Find"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.Find" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.Find
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.Find (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.Find" end time: Feb 20 23:09 UTC
+"VectorListTest.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/76 Testing: VectorListTest.Contains
+8/76 Test: VectorListTest.Contains
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.Contains"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.Contains" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.Contains
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.Contains
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.Contains (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.Contains" end time: Feb 20 23:09 UTC
+"VectorListTest.Contains" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/76 Testing: VectorListTest.OutOfBoundsAccess
+9/76 Test: VectorListTest.OutOfBoundsAccess
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.OutOfBoundsAccess"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.OutOfBoundsAccess" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.OutOfBoundsAccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.OutOfBoundsAccess
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.OutOfBoundsAccess (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.OutOfBoundsAccess" end time: Feb 20 23:09 UTC
+"VectorListTest.OutOfBoundsAccess" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/76 Testing: VectorListTest.ExceedingCapacity
+10/76 Test: VectorListTest.ExceedingCapacity
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.ExceedingCapacity"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.ExceedingCapacity" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.ExceedingCapacity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.ExceedingCapacity
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.ExceedingCapacity (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.ExceedingCapacity" end time: Feb 20 23:09 UTC
+"VectorListTest.ExceedingCapacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/76 Testing: VectorListTest.InsertExceedingCapacity
+11/76 Test: VectorListTest.InsertExceedingCapacity
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.InsertExceedingCapacity"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.InsertExceedingCapacity" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.InsertExceedingCapacity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.InsertExceedingCapacity
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.InsertExceedingCapacity (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.InsertExceedingCapacity" end time: Feb 20 23:09 UTC
+"VectorListTest.InsertExceedingCapacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/76 Testing: VectorListTest.InsertOutOfBounds
+12/76 Test: VectorListTest.InsertOutOfBounds
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.InsertOutOfBounds"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.InsertOutOfBounds" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.InsertOutOfBounds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.InsertOutOfBounds
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.InsertOutOfBounds (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.InsertOutOfBounds" end time: Feb 20 23:09 UTC
+"VectorListTest.InsertOutOfBounds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/76 Testing: VectorListTest.PopBackEmpty
+13/76 Test: VectorListTest.PopBackEmpty
+Command: "/workspaces/Estruturas_de_Dados/build/vector_list_test" "--gtest_filter=VectorListTest.PopBackEmpty"
+Directory: /workspaces/Estruturas_de_Dados/build
+"VectorListTest.PopBackEmpty" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = VectorListTest.PopBackEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VectorListTest
+[ RUN      ] VectorListTest.PopBackEmpty
+Criando lista!
+ Deletando lista!
+ [       OK ] VectorListTest.PopBackEmpty (0 ms)
+[----------] 1 test from VectorListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VectorListTest.PopBackEmpty" end time: Feb 20 23:09 UTC
+"VectorListTest.PopBackEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/76 Testing: LinkedListTest.InitiallyEmpty
+14/76 Test: LinkedListTest.InitiallyEmpty
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.InitiallyEmpty"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.InitiallyEmpty" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.InitiallyEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.InitiallyEmpty
+[       OK ] LinkedListTest.InitiallyEmpty (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.InitiallyEmpty" end time: Feb 20 23:09 UTC
+"LinkedListTest.InitiallyEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/76 Testing: LinkedListTest.PushFrontIncreasesSize
+15/76 Test: LinkedListTest.PushFrontIncreasesSize
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.PushFrontIncreasesSize"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.PushFrontIncreasesSize" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.PushFrontIncreasesSize
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.PushFrontIncreasesSize
+[       OK ] LinkedListTest.PushFrontIncreasesSize (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.PushFrontIncreasesSize" end time: Feb 20 23:09 UTC
+"LinkedListTest.PushFrontIncreasesSize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/76 Testing: LinkedListTest.InsertAtIndex
+16/76 Test: LinkedListTest.InsertAtIndex
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.InsertAtIndex"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.InsertAtIndex" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.InsertAtIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.InsertAtIndex
+[       OK ] LinkedListTest.InsertAtIndex (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.InsertAtIndex" end time: Feb 20 23:09 UTC
+"LinkedListTest.InsertAtIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/76 Testing: LinkedListTest.PopFrontDecreasesSize
+17/76 Test: LinkedListTest.PopFrontDecreasesSize
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.PopFrontDecreasesSize"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.PopFrontDecreasesSize" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.PopFrontDecreasesSize
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.PopFrontDecreasesSize
+[       OK ] LinkedListTest.PopFrontDecreasesSize (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.PopFrontDecreasesSize" end time: Feb 20 23:09 UTC
+"LinkedListTest.PopFrontDecreasesSize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/76 Testing: LinkedListTest.RemoveAtIndex
+18/76 Test: LinkedListTest.RemoveAtIndex
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.RemoveAtIndex"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.RemoveAtIndex" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.RemoveAtIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.RemoveAtIndex
+[       OK ] LinkedListTest.RemoveAtIndex (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.RemoveAtIndex" end time: Feb 20 23:09 UTC
+"LinkedListTest.RemoveAtIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/76 Testing: LinkedListTest.ClearEmptiesList
+19/76 Test: LinkedListTest.ClearEmptiesList
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.ClearEmptiesList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.ClearEmptiesList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.ClearEmptiesList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.ClearEmptiesList
+[       OK ] LinkedListTest.ClearEmptiesList (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.ClearEmptiesList" end time: Feb 20 23:09 UTC
+"LinkedListTest.ClearEmptiesList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/76 Testing: LinkedListTest.FindElement
+20/76 Test: LinkedListTest.FindElement
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.FindElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.FindElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.FindElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.FindElement
+[       OK ] LinkedListTest.FindElement (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.FindElement" end time: Feb 20 23:09 UTC
+"LinkedListTest.FindElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/76 Testing: LinkedListTest.FindNonExistentElement
+21/76 Test: LinkedListTest.FindNonExistentElement
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.FindNonExistentElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.FindNonExistentElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.FindNonExistentElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.FindNonExistentElement
+[       OK ] LinkedListTest.FindNonExistentElement (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.FindNonExistentElement" end time: Feb 20 23:09 UTC
+"LinkedListTest.FindNonExistentElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/76 Testing: LinkedListTest.ContainsElement
+22/76 Test: LinkedListTest.ContainsElement
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.ContainsElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.ContainsElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.ContainsElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.ContainsElement
+[       OK ] LinkedListTest.ContainsElement (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.ContainsElement" end time: Feb 20 23:09 UTC
+"LinkedListTest.ContainsElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/76 Testing: LinkedListTest.OperatorIndexAccess
+23/76 Test: LinkedListTest.OperatorIndexAccess
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.OperatorIndexAccess"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.OperatorIndexAccess" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.OperatorIndexAccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.OperatorIndexAccess
+[       OK ] LinkedListTest.OperatorIndexAccess (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.OperatorIndexAccess" end time: Feb 20 23:09 UTC
+"LinkedListTest.OperatorIndexAccess" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/76 Testing: LinkedListTest.OperatorIndexOutOfBounds
+24/76 Test: LinkedListTest.OperatorIndexOutOfBounds
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.OperatorIndexOutOfBounds"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.OperatorIndexOutOfBounds" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.OperatorIndexOutOfBounds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.OperatorIndexOutOfBounds
+[       OK ] LinkedListTest.OperatorIndexOutOfBounds (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.OperatorIndexOutOfBounds" end time: Feb 20 23:09 UTC
+"LinkedListTest.OperatorIndexOutOfBounds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/76 Testing: LinkedListTest.InsertAtInvalidIndex
+25/76 Test: LinkedListTest.InsertAtInvalidIndex
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.InsertAtInvalidIndex"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.InsertAtInvalidIndex" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.InsertAtInvalidIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.InsertAtInvalidIndex
+[       OK ] LinkedListTest.InsertAtInvalidIndex (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.InsertAtInvalidIndex" end time: Feb 20 23:09 UTC
+"LinkedListTest.InsertAtInvalidIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/76 Testing: LinkedListTest.RemoveAtInvalidIndex
+26/76 Test: LinkedListTest.RemoveAtInvalidIndex
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.RemoveAtInvalidIndex"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.RemoveAtInvalidIndex" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.RemoveAtInvalidIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.RemoveAtInvalidIndex
+[       OK ] LinkedListTest.RemoveAtInvalidIndex (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.RemoveAtInvalidIndex" end time: Feb 20 23:09 UTC
+"LinkedListTest.RemoveAtInvalidIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/76 Testing: LinkedListTest.FindInEmptyList
+27/76 Test: LinkedListTest.FindInEmptyList
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.FindInEmptyList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.FindInEmptyList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.FindInEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.FindInEmptyList
+[       OK ] LinkedListTest.FindInEmptyList (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.FindInEmptyList" end time: Feb 20 23:09 UTC
+"LinkedListTest.FindInEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/76 Testing: LinkedListTest.PopFrontOnEmptyList
+28/76 Test: LinkedListTest.PopFrontOnEmptyList
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.PopFrontOnEmptyList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.PopFrontOnEmptyList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.PopFrontOnEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.PopFrontOnEmptyList
+[       OK ] LinkedListTest.PopFrontOnEmptyList (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.PopFrontOnEmptyList" end time: Feb 20 23:09 UTC
+"LinkedListTest.PopFrontOnEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/76 Testing: LinkedListTest.ClearAlreadyEmptyList
+29/76 Test: LinkedListTest.ClearAlreadyEmptyList
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.ClearAlreadyEmptyList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.ClearAlreadyEmptyList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.ClearAlreadyEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.ClearAlreadyEmptyList
+[       OK ] LinkedListTest.ClearAlreadyEmptyList (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.ClearAlreadyEmptyList" end time: Feb 20 23:09 UTC
+"LinkedListTest.ClearAlreadyEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/76 Testing: LinkedListTest.PushFrontMultipleValues
+30/76 Test: LinkedListTest.PushFrontMultipleValues
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.PushFrontMultipleValues"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.PushFrontMultipleValues" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.PushFrontMultipleValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.PushFrontMultipleValues
+[       OK ] LinkedListTest.PushFrontMultipleValues (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.PushFrontMultipleValues" end time: Feb 20 23:09 UTC
+"LinkedListTest.PushFrontMultipleValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/76 Testing: LinkedListTest.RemoveLastElement
+31/76 Test: LinkedListTest.RemoveLastElement
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.RemoveLastElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.RemoveLastElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.RemoveLastElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.RemoveLastElement
+[       OK ] LinkedListTest.RemoveLastElement (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.RemoveLastElement" end time: Feb 20 23:09 UTC
+"LinkedListTest.RemoveLastElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/76 Testing: LinkedListTest.PrintDoesNotCrash
+32/76 Test: LinkedListTest.PrintDoesNotCrash
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.PrintDoesNotCrash"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.PrintDoesNotCrash" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.PrintDoesNotCrash
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.PrintDoesNotCrash
+10 -> NULL
+[       OK ] LinkedListTest.PrintDoesNotCrash (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.PrintDoesNotCrash" end time: Feb 20 23:09 UTC
+"LinkedListTest.PrintDoesNotCrash" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/76 Testing: LinkedListTest.CopyConstructor
+33/76 Test: LinkedListTest.CopyConstructor
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.CopyConstructor"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.CopyConstructor" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.CopyConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.CopyConstructor
+[       OK ] LinkedListTest.CopyConstructor (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.CopyConstructor" end time: Feb 20 23:09 UTC
+"LinkedListTest.CopyConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/76 Testing: LinkedListTest.AssignmentOperator
+34/76 Test: LinkedListTest.AssignmentOperator
+Command: "/workspaces/Estruturas_de_Dados/build/linked_list_test" "--gtest_filter=LinkedListTest.AssignmentOperator"
+Directory: /workspaces/Estruturas_de_Dados/build
+"LinkedListTest.AssignmentOperator" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedListTest.AssignmentOperator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.AssignmentOperator
+[       OK ] LinkedListTest.AssignmentOperator (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest.AssignmentOperator" end time: Feb 20 23:09 UTC
+"LinkedListTest.AssignmentOperator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/76 Testing: DoublyLinkedListTest.TestInitialSize
+35/76 Test: DoublyLinkedListTest.TestInitialSize
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestInitialSize"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestInitialSize" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestInitialSize
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestInitialSize
+[       OK ] DoublyLinkedListTest.TestInitialSize (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestInitialSize" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestInitialSize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/76 Testing: DoublyLinkedListTest.TestIsEmpty
+36/76 Test: DoublyLinkedListTest.TestIsEmpty
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestIsEmpty"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestIsEmpty" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestIsEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestIsEmpty
+[       OK ] DoublyLinkedListTest.TestIsEmpty (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestIsEmpty" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestIsEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/76 Testing: DoublyLinkedListTest.TestPushBack
+37/76 Test: DoublyLinkedListTest.TestPushBack
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPushBack"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPushBack" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPushBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPushBack
+[       OK ] DoublyLinkedListTest.TestPushBack (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPushBack" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPushBack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/76 Testing: DoublyLinkedListTest.TestPushFront
+38/76 Test: DoublyLinkedListTest.TestPushFront
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPushFront"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPushFront" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPushFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPushFront
+[       OK ] DoublyLinkedListTest.TestPushFront (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPushFront" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPushFront" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/76 Testing: DoublyLinkedListTest.TestFind
+39/76 Test: DoublyLinkedListTest.TestFind
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestFind"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestFind" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestFind
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestFind
+[       OK ] DoublyLinkedListTest.TestFind (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestFind" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestFind" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/76 Testing: DoublyLinkedListTest.TestPopBack
+40/76 Test: DoublyLinkedListTest.TestPopBack
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPopBack"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPopBack" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPopBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPopBack
+[       OK ] DoublyLinkedListTest.TestPopBack (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPopBack" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPopBack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/76 Testing: DoublyLinkedListTest.TestPushFrontAndPopFront
+41/76 Test: DoublyLinkedListTest.TestPushFrontAndPopFront
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPushFrontAndPopFront"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPushFrontAndPopFront" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPushFrontAndPopFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPushFrontAndPopFront
+[       OK ] DoublyLinkedListTest.TestPushFrontAndPopFront (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPushFrontAndPopFront" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPushFrontAndPopFront" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/76 Testing: DoublyLinkedListTest.TestContains
+42/76 Test: DoublyLinkedListTest.TestContains
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestContains"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestContains" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestContains
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestContains
+[       OK ] DoublyLinkedListTest.TestContains (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestContains" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestContains" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/76 Testing: DoublyLinkedListTest.TestOperatorAccess
+43/76 Test: DoublyLinkedListTest.TestOperatorAccess
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestOperatorAccess"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestOperatorAccess" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestOperatorAccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestOperatorAccess
+[       OK ] DoublyLinkedListTest.TestOperatorAccess (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestOperatorAccess" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestOperatorAccess" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/76 Testing: DoublyLinkedListTest.TestErase
+44/76 Test: DoublyLinkedListTest.TestErase
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestErase"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestErase" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestErase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestErase
+[       OK ] DoublyLinkedListTest.TestErase (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestErase" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestErase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/76 Testing: DoublyLinkedListTest.TestClear
+45/76 Test: DoublyLinkedListTest.TestClear
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestClear"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestClear" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestClear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestClear
+[       OK ] DoublyLinkedListTest.TestClear (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestClear" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestClear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/76 Testing: DoublyLinkedListTest.TestInsertAtFront
+46/76 Test: DoublyLinkedListTest.TestInsertAtFront
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestInsertAtFront"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestInsertAtFront" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestInsertAtFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestInsertAtFront
+[       OK ] DoublyLinkedListTest.TestInsertAtFront (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestInsertAtFront" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestInsertAtFront" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/76 Testing: DoublyLinkedListTest.TestInsertAtBack
+47/76 Test: DoublyLinkedListTest.TestInsertAtBack
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestInsertAtBack"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestInsertAtBack" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestInsertAtBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestInsertAtBack
+[       OK ] DoublyLinkedListTest.TestInsertAtBack (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestInsertAtBack" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestInsertAtBack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/76 Testing: DoublyLinkedListTest.TestInsertInMiddle
+48/76 Test: DoublyLinkedListTest.TestInsertInMiddle
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestInsertInMiddle"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestInsertInMiddle" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestInsertInMiddle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestInsertInMiddle
+[       OK ] DoublyLinkedListTest.TestInsertInMiddle (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestInsertInMiddle" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestInsertInMiddle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/76 Testing: DoublyLinkedListTest.TestIteratorIncrementDecrement
+49/76 Test: DoublyLinkedListTest.TestIteratorIncrementDecrement
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestIteratorIncrementDecrement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestIteratorIncrementDecrement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestIteratorIncrementDecrement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestIteratorIncrementDecrement
+[       OK ] DoublyLinkedListTest.TestIteratorIncrementDecrement (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestIteratorIncrementDecrement" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestIteratorIncrementDecrement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/76 Testing: DoublyLinkedListTest.TestOperatorInvalidAccess
+50/76 Test: DoublyLinkedListTest.TestOperatorInvalidAccess
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestOperatorInvalidAccess"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestOperatorInvalidAccess" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestOperatorInvalidAccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestOperatorInvalidAccess
+[       OK ] DoublyLinkedListTest.TestOperatorInvalidAccess (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestOperatorInvalidAccess" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestOperatorInvalidAccess" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/76 Testing: DoublyLinkedListTest.TestInsertIntoEmptyList
+51/76 Test: DoublyLinkedListTest.TestInsertIntoEmptyList
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestInsertIntoEmptyList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestInsertIntoEmptyList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestInsertIntoEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestInsertIntoEmptyList
+[       OK ] DoublyLinkedListTest.TestInsertIntoEmptyList (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestInsertIntoEmptyList" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestInsertIntoEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/76 Testing: DoublyLinkedListTest.TestPopFromEmptyList
+52/76 Test: DoublyLinkedListTest.TestPopFromEmptyList
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPopFromEmptyList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPopFromEmptyList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPopFromEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPopFromEmptyList
+[       OK ] DoublyLinkedListTest.TestPopFromEmptyList (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPopFromEmptyList" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPopFromEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/76 Testing: DoublyLinkedListTest.TestEraseSingleElement
+53/76 Test: DoublyLinkedListTest.TestEraseSingleElement
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseSingleElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseSingleElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseSingleElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseSingleElement
+[       OK ] DoublyLinkedListTest.TestEraseSingleElement (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseSingleElement" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseSingleElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/76 Testing: DoublyLinkedListTest.TestFindInEmptyList
+54/76 Test: DoublyLinkedListTest.TestFindInEmptyList
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestFindInEmptyList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestFindInEmptyList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestFindInEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestFindInEmptyList
+[       OK ] DoublyLinkedListTest.TestFindInEmptyList (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestFindInEmptyList" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestFindInEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/76 Testing: DoublyLinkedListTest.TestContainsEmptyList
+55/76 Test: DoublyLinkedListTest.TestContainsEmptyList
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestContainsEmptyList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestContainsEmptyList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestContainsEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestContainsEmptyList
+[       OK ] DoublyLinkedListTest.TestContainsEmptyList (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestContainsEmptyList" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestContainsEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/76 Testing: DoublyLinkedListTest.TestIteratorTraversal
+56/76 Test: DoublyLinkedListTest.TestIteratorTraversal
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestIteratorTraversal"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestIteratorTraversal" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestIteratorTraversal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestIteratorTraversal
+[       OK ] DoublyLinkedListTest.TestIteratorTraversal (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestIteratorTraversal" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestIteratorTraversal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/76 Testing: DoublyLinkedListTest.TestIteratorReverse
+57/76 Test: DoublyLinkedListTest.TestIteratorReverse
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestIteratorReverse"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestIteratorReverse" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestIteratorReverse
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestIteratorReverse
+[       OK ] DoublyLinkedListTest.TestIteratorReverse (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestIteratorReverse" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestIteratorReverse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/76 Testing: DoublyLinkedListTest.TestLargeNumberOfElements
+58/76 Test: DoublyLinkedListTest.TestLargeNumberOfElements
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestLargeNumberOfElements"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestLargeNumberOfElements" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestLargeNumberOfElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestLargeNumberOfElements
+[       OK ] DoublyLinkedListTest.TestLargeNumberOfElements (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestLargeNumberOfElements" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestLargeNumberOfElements" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/76 Testing: DoublyLinkedListTest.TestIteratorWithOffset
+59/76 Test: DoublyLinkedListTest.TestIteratorWithOffset
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestIteratorWithOffset"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestIteratorWithOffset" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestIteratorWithOffset
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestIteratorWithOffset
+[       OK ] DoublyLinkedListTest.TestIteratorWithOffset (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestIteratorWithOffset" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestIteratorWithOffset" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/76 Testing: DoublyLinkedListTest.TestPopFrontFromEmptyList
+60/76 Test: DoublyLinkedListTest.TestPopFrontFromEmptyList
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPopFrontFromEmptyList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPopFrontFromEmptyList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPopFrontFromEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPopFrontFromEmptyList
+[       OK ] DoublyLinkedListTest.TestPopFrontFromEmptyList (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPopFrontFromEmptyList" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPopFrontFromEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/76 Testing: DoublyLinkedListTest.TestPopBackFromEmptyList
+61/76 Test: DoublyLinkedListTest.TestPopBackFromEmptyList
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPopBackFromEmptyList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPopBackFromEmptyList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPopBackFromEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPopBackFromEmptyList
+[       OK ] DoublyLinkedListTest.TestPopBackFromEmptyList (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPopBackFromEmptyList" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPopBackFromEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/76 Testing: DoublyLinkedListTest.TestPopFrontSingleElement
+62/76 Test: DoublyLinkedListTest.TestPopFrontSingleElement
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPopFrontSingleElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPopFrontSingleElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPopFrontSingleElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPopFrontSingleElement
+[       OK ] DoublyLinkedListTest.TestPopFrontSingleElement (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPopFrontSingleElement" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPopFrontSingleElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/76 Testing: DoublyLinkedListTest.TestPopBackSingleElement
+63/76 Test: DoublyLinkedListTest.TestPopBackSingleElement
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPopBackSingleElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPopBackSingleElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPopBackSingleElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPopBackSingleElement
+[       OK ] DoublyLinkedListTest.TestPopBackSingleElement (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPopBackSingleElement" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPopBackSingleElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/76 Testing: DoublyLinkedListTest.TestEraseEmptyList
+64/76 Test: DoublyLinkedListTest.TestEraseEmptyList
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseEmptyList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseEmptyList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseEmptyList
+[       OK ] DoublyLinkedListTest.TestEraseEmptyList (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseEmptyList" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/76 Testing: DoublyLinkedListTest.TestEraseSingleElement2
+65/76 Test: DoublyLinkedListTest.TestEraseSingleElement2
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseSingleElement2"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseSingleElement2" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseSingleElement2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseSingleElement2
+[       OK ] DoublyLinkedListTest.TestEraseSingleElement2 (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseSingleElement2" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseSingleElement2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/76 Testing: DoublyLinkedListTest.TestEraseEntireList
+66/76 Test: DoublyLinkedListTest.TestEraseEntireList
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseEntireList"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseEntireList" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseEntireList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseEntireList
+[       OK ] DoublyLinkedListTest.TestEraseEntireList (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseEntireList" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseEntireList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/76 Testing: DoublyLinkedListTest.TestPopBackCorrectlyRemovesElement
+67/76 Test: DoublyLinkedListTest.TestPopBackCorrectlyRemovesElement
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPopBackCorrectlyRemovesElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPopBackCorrectlyRemovesElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPopBackCorrectlyRemovesElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPopBackCorrectlyRemovesElement
+[       OK ] DoublyLinkedListTest.TestPopBackCorrectlyRemovesElement (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPopBackCorrectlyRemovesElement" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPopBackCorrectlyRemovesElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/76 Testing: DoublyLinkedListTest.TestPopFrontCorrectlyRemovesElement
+68/76 Test: DoublyLinkedListTest.TestPopFrontCorrectlyRemovesElement
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestPopFrontCorrectlyRemovesElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestPopFrontCorrectlyRemovesElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestPopFrontCorrectlyRemovesElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestPopFrontCorrectlyRemovesElement
+[       OK ] DoublyLinkedListTest.TestPopFrontCorrectlyRemovesElement (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestPopFrontCorrectlyRemovesElement" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestPopFrontCorrectlyRemovesElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/76 Testing: DoublyLinkedListTest.TestEraseRange
+69/76 Test: DoublyLinkedListTest.TestEraseRange
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseRange"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseRange" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseRange
+[       OK ] DoublyLinkedListTest.TestEraseRange (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseRange" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/76 Testing: DoublyLinkedListTest.TestEraseEmptyRange
+70/76 Test: DoublyLinkedListTest.TestEraseEmptyRange
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseEmptyRange"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseEmptyRange" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseEmptyRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseEmptyRange
+[       OK ] DoublyLinkedListTest.TestEraseEmptyRange (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseEmptyRange" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseEmptyRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/76 Testing: DoublyLinkedListTest.TestEraseEntireList2
+71/76 Test: DoublyLinkedListTest.TestEraseEntireList2
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseEntireList2"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseEntireList2" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseEntireList2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseEntireList2
+[       OK ] DoublyLinkedListTest.TestEraseEntireList2 (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseEntireList2" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseEntireList2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/76 Testing: DoublyLinkedListTest.TestEraseFromBeginToMiddle
+72/76 Test: DoublyLinkedListTest.TestEraseFromBeginToMiddle
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseFromBeginToMiddle"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseFromBeginToMiddle" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseFromBeginToMiddle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseFromBeginToMiddle
+[       OK ] DoublyLinkedListTest.TestEraseFromBeginToMiddle (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseFromBeginToMiddle" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseFromBeginToMiddle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/76 Testing: DoublyLinkedListTest.TestEraseFromMiddleToEnd
+73/76 Test: DoublyLinkedListTest.TestEraseFromMiddleToEnd
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseFromMiddleToEnd"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseFromMiddleToEnd" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseFromMiddleToEnd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseFromMiddleToEnd
+[       OK ] DoublyLinkedListTest.TestEraseFromMiddleToEnd (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseFromMiddleToEnd" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseFromMiddleToEnd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/76 Testing: DoublyLinkedListTest.TestEraseMiddleElement
+74/76 Test: DoublyLinkedListTest.TestEraseMiddleElement
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseMiddleElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseMiddleElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseMiddleElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseMiddleElement
+[       OK ] DoublyLinkedListTest.TestEraseMiddleElement (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseMiddleElement" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseMiddleElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/76 Testing: DoublyLinkedListTest.TestEraseLastElementSingleElement
+75/76 Test: DoublyLinkedListTest.TestEraseLastElementSingleElement
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseLastElementSingleElement"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseLastElementSingleElement" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseLastElementSingleElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseLastElementSingleElement
+[       OK ] DoublyLinkedListTest.TestEraseLastElementSingleElement (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseLastElementSingleElement" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseLastElementSingleElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/76 Testing: DoublyLinkedListTest.TestEraseSingleElement3
+76/76 Test: DoublyLinkedListTest.TestEraseSingleElement3
+Command: "/workspaces/Estruturas_de_Dados/build/doubly_linked_list_test" "--gtest_filter=DoublyLinkedListTest.TestEraseSingleElement3"
+Directory: /workspaces/Estruturas_de_Dados/build
+"DoublyLinkedListTest.TestEraseSingleElement3" start time: Feb 20 23:09 UTC
+Output:
+----------------------------------------------------------
+Running main() from /builddir/build/BUILD/googletest-release-1.11.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DoublyLinkedListTest.TestEraseSingleElement3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoublyLinkedListTest
+[ RUN      ] DoublyLinkedListTest.TestEraseSingleElement3
+[       OK ] DoublyLinkedListTest.TestEraseSingleElement3 (0 ms)
+[----------] 1 test from DoublyLinkedListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DoublyLinkedListTest.TestEraseSingleElement3" end time: Feb 20 23:09 UTC
+"DoublyLinkedListTest.TestEraseSingleElement3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 20 23:09 UTC

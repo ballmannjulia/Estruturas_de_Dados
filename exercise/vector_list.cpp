@@ -2,7 +2,7 @@
 
 /*IMPLEMENTAÇÃO DOS MÉTODOS DA CLASSE VECTORLIST*/
 /*METODO: CONSTRUTOR*/
-/*
+
 int main(int argc, char const* argv[]) {
     VectorList<int> lista(11);
     std::cout << "lista criada\n";
@@ -26,7 +26,7 @@ int main(int argc, char const* argv[]) {
     lista.print();
     return 0;
 }
-*/
+
 /*METODO: INSERÇÃO*/
 /*
 int main(int argc, char const* argv[]) {
